@@ -1,0 +1,55 @@
+#logo {
+    position:relative;
+    margin-left: auto;
+    margin-rightt: auto;
+    width: 30%;
+    padding: 1%;
+    align-content: center;
+}
+
+ul {
+    background-color: #F0F0F0 ;
+    border-bottom: 2px solid #999999 ;
+    list-style-type: none ;
+    margin: 0px 0px 20px 0px ;
+    padding: 7px 5px 7px 5px ;
+    text-align: center;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 70%;
+    word-spacing: 60px;
+    position: relative;
+    top: 50px;
+}
+
+
+ ul li {
+    display: inline ;
+    padding: 0px 3px 0px 3px ;
+}
+
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+#pony {
+      position: relative;
+      top: -20px;
+}
+
+#about{
+  position: fixed;
+  top:50px;
+  left: 500px;
+  padding:50px;
+}
+
+/*#link{*/
+/*  url:about/index.html*/
+/*}*/
